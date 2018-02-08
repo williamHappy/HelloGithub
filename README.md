@@ -11,3 +11,5 @@ test git command
 test git ssh keys
 
 test sourcetree
+
+also test sourcetree
