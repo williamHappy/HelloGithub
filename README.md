@@ -5,3 +5,5 @@ my first git project for my mac!
 exicted!
 
 local update for mac to test
+
+test git command
