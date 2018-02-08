@@ -9,3 +9,5 @@ local update for mac to test
 test git command
 
 test git ssh keys
+
+test sourcetree
